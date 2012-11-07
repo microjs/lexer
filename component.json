@@ -1,0 +1,15 @@
+{
+  "name": "lexer",
+  "repo": "microjs/lexer",
+  "description": "An elegant armor-plated JavaScript lexer modelled after flex. Easily extensible to tailor to your need for perfection.",
+  "version": "1.0.1",
+  "keywords": ["lexer"],
+  "dependencies": {},
+  "development": {},
+  "scripts": [
+    "lib/lexer.js"
+  ],
+  "main": "lib/lexer.js",
+  "twitter": "@ForbesLindesay",
+  "license": "GPLv3"
+}
